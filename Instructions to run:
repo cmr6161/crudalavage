@@ -1,0 +1,4 @@
+Instructions to run:
+1. Download Cypress
+2. Save the search_tests_gp.js file to a run file in Cypress 
+3. Run the file via Cypress in Chrome 80 browser 
